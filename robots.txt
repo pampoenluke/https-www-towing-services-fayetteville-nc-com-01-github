@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /img/
+
+Sitemap: https://pampoenluke.github.io/https-www-towing-services-fayetteville-nc-com-01-github/sitemap.xml
+Sitemap: https://pampoenluke.github.io/https-www-towing-services-fayetteville-nc-com-01-github/sitemap-images.xml
+
+User-agent: Googlebot-Image
+Allow: /img/
+
+User-agent: Bingbot
+Allow: /
